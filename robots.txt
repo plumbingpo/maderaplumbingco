@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maderaplumbingco.com/sitemap.xml
